@@ -1,0 +1,218 @@
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.pdb
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Helpers.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Mvc.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Optimization.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Razor.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.Deployment.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.Razor.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Newtonsoft.Json.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Antlr3.Runtime.pdb
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\EntityFramework.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\EntityFramework.SqlServer.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Google.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Helpers.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Mvc.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Optimization.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Razor.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\EntityFramework.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\EntityFramework.SqlServer.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.csprojResolveAssemblyReference.cache
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.dll
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.pdb
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\FLOANDBUS.dll.config
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\FLOANDBUS.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\FLOANDBUS.pdb
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Antlr3.Runtime.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\EntityFramework.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\EntityFramework.SqlServer.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Newtonsoft.Json.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Owin.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Helpers.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Mvc.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Optimization.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Razor.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.WebPages.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.WebPages.Razor.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\WebGrease.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Helpers.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Mvc.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Optimization.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.Razor.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.WebPages.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\System.Web.WebPages.Razor.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Newtonsoft.Json.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Antlr3.Runtime.pdb
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\EntityFramework.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\EntityFramework.SqlServer.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.Helpers.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.Mvc.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.Optimization.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.Razor.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.WebPages.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\EntityFramework.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\obj\Debug\FLOANDBUS.csprojResolveAssemblyReference.cache
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\obj\Debug\FLOANDBUS.dll
+C:\Users\michel villegas\Documents\Visual Studio 2013\Projects\FLOandBUS\FLOANDBUS\obj\Debug\FLOANDBUS.pdb
+F:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.dll.config
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.dll.config
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.pdb
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Helpers.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Mvc.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Optimization.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.Razor.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.Deployment.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.Razor.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Newtonsoft.Json.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Antlr3.Runtime.pdb
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\EntityFramework.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\EntityFramework.SqlServer.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Core.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Facebook.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Cookies.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.OAuth.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Google.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Twitter.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Helpers.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Mvc.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Optimization.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Razor.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\EntityFramework.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\EntityFramework.SqlServer.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.csprojResolveAssemblyReference.cache
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.dll
+G:\UDEA 2018_1\informatica avanzada\projects\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.pdb
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.dll.config
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\FLOANDBUS.pdb
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.Helpers.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.Mvc.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.Optimization.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.Razor.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.Deployment.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\System.Web.WebPages.Razor.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Newtonsoft.Json.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Antlr3.Runtime.pdb
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\EntityFramework.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\EntityFramework.SqlServer.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Google.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Helpers.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Mvc.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Optimization.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.Razor.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\EntityFramework.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\EntityFramework.SqlServer.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.csprojResolveAssemblyReference.cache
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.dll
+D:\ESTUDIANTE\Desktop\Nueva carpeta\FLOANDBUS\FLOANDBUS\obj\Debug\FLOANDBUS.pdb

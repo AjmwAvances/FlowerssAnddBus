@@ -1,0 +1,110 @@
+﻿
+@{
+    ViewBag.Title = "Pedido";
+}
+
+<h2>Pedido</h2>
+<form>
+
+    
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="tipoPlanta">Tipo de Planta</label>
+                            <select class="form-control"
+                                    id="tipoPlanta"
+                                    name="tipoPlanta"
+                                    required>
+                                <option></option>
+                                <option>Arboles</option>
+                                <option>Arbustos</option>
+                                <option>Helechos</option>
+                                <option>Trepadoras</option>
+                                <option>Acuaticas</option>
+                                <option>Palustres</option>
+                                <option>Palmeras</option>
+                                <option>Anules</option>
+                                <option>Cespedes</option>
+                                <option>Banbúes</option>
+                                <option>De interior</option>
+                                <option>Epífitas</option>
+                                <option>Cactus</option>
+                                <option>Bulbosas</option>
+                                <option>Tuperosas</option>
+
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="tipoAdorno">Tipo de Adorno</label>
+                            <select class="form-control"
+                                    id="tipoAdorno"
+                                    name="tipoAdorno"
+                                    required>
+                                <option></option>
+                                <option>Fuentes</option>
+                                <option>Masetas</option>
+                                <option>Luces</option>
+                                <option>Asientos</option>
+                                <option>Esculturas</option>
+                                <option>Lamparas</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="rom">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="DimensionesJardin">Dimensiones del Jardín</label>
+                                <input type="text" class="form-control"
+                                       id="DimensionesJardin"
+                                       name="DimensionesJardin"
+                                       required maxlength="100"
+                                       placeholder="introduce las Dimensiones del Jardín">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="rom">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="Presupuesto">Presupuesto Disponible</label>
+                                <input type="text" class="form-control numero"
+                                       id="Presupuesto"
+                                       name="Presupuesto"
+                                       required maxlength="100"
+                                       placeholder="introduce el Presupuesto Disponible">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="rom">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="OtrosAtributos">Otros Atributos</label>
+                                <input type="text" class="form-control"
+                                       id="OtrosAtributos"
+                                       name="OtrosAtributos"
+                                       required maxlength="100"
+                                       placeholder="introduce Recomendaciones Para el Diseño del Jardín">
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div>
+                        <p><button class="btn btn-success btn-md center-block">Guardar</button></p>
+
+                    </div>
+
+                    <script>
+                    </script>
+
+
+
+</form>
+

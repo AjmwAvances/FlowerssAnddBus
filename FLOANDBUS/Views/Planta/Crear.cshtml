@@ -1,0 +1,141 @@
+﻿@{
+    ViewBag.Title = "Crear";
+}
+<h2>Regitrarse</h2>
+           <form method="post" id="persona">
+            
+              
+                    <div id="alert_placeholder"></div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="primerNombre">Primer nombre</label>
+                                <input type="text" class="form-control"
+                                       id="primerNombre"
+                                       name="primerNombre"
+                                       required maxlength="100"
+                                       placeholder="Introduce el primer nombre">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="primerNombre">Segundo nombre</label>
+                                <input type="text" class="form-control"
+                                       id="segundoNombre"
+                                       name="segundoNombre"
+                                       required maxlength="100"
+                                       placeholder="Introduce el segundo nombre">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="numeroDocumento">Número de documento</label>
+                                <input type="text" class="form-control numero"
+                                       id="numeroDocumento"
+                                       name="numeroDocumento"
+                                       required maxlength="100"
+                                       placeholder="Introduce el número de documento">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="tipoDocumento">Tipo de documento</label>
+                                <select class="form-control"
+                                        id="tipoDocumento"
+                                        name="tipoDocumento"
+                                        required>
+                                    <option></option>
+                                    <option>Cédula de Ciudadanía</option>
+                                    <option>Tarjeta de Identidad</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label for="fechaNacimiento">Número de nacimiento</label>
+                            <div class="input-group date" data-provide="datepicker">
+                                <input type="text" class="form-control datepicker"
+                                       id="fechaNacimiento"
+                                       name="fechaNacimiento"
+                                       readonly
+                                       required maxlength="10"
+                                       placeholder="Introduce la fecha de nacimiento">
+                                <div class="input-group-addon">
+                                    <span class="glyphicon glyphicon-th"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="sexo">Sexo</label>
+                                Femenino&nbsp;<input type="radio"
+                                                     id="sexo" class="form-control"
+                                                     value="Femenino"
+                                                     name="sexo">
+                                Masculino&nbsp;<input type="radio"
+                                                      id="sexo" class="form-control"
+                                                      value="Masculino"
+                                                      name="sexo">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div>
+                            
+                            <h2 align="center"><img width="170" src="../../IMAGEN/correoelectronico.jpg" alt="1" /></h2>
+                            <p><button class="btn btn-success btn-md center-block">Guardar</button></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script>
+                $('.numero').keyup(function () {
+                    this.value = this.value.replace(/[^0-9]/g, '');
+                });
+                $('.datepicker').datepicker({
+                    format: 'dd/mm/yyyy',
+                    startDate: '-3d'
+                });
+
+                $('#persona').submit(function (event) {
+                    if ($('#numeroDocumento').val().length < 6) {
+                        bootstrap_alert.warning('El número de documento debe tener mínimo seis dígitos');
+                        return false;
+                    }
+                    if (validarFechaNacimiento($('#fechaNacimiento').val()) == false) {
+                        bootstrap_alert.warning('La fecha de nacimiento debe ser menor a la fecha del sistema');
+                        return false;
+                    }
+                    if (!$('#sexo:checked').val() != "") {
+                        bootstrap_alert.warning('Debe seleccionar el sexo');
+                        return false;
+                    }
+                });
+
+                bootstrap_alert = function () { };
+                bootstrap_alert.warning = function (message) {
+                    $('#alert_placeholder').
+                        html('<div class="alert alert-danger">' +
+                        '<a class="close" data-dismiss="alert">×</a><span>'
+                        + message + '</span></div>');
+                };
+
+                function validarFechaNacimiento(fecha) {
+                    var fechas = fecha.split("/");
+                    var nuevaFecha = new Date(fechas[2],
+                        parseInt(fechas[1], 10) - 1,
+                        fechas[0]);
+                    if (nuevaFecha > new Date()) {
+                        return false;
+                    }
+                    else {
+                        return true;
+                    }
+                }
+            </script>
+
+        </form>
+

@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="~/content/styles.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Mi aplicación ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    <link rel="stylesheet" href="~/Content/css/bootstrap-datepicker3.min.css" />
+    @*<link rel="stylesheet" href="~/Content/materialize.css" />
+        <script src="~/Scripts/materialize.js"></script>*@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script type="text/javascript" src="~/Content/js/bootstrap-datepicker.min.js"></script>
+
+</head>
+<body>
+    <title>Menu Desplegable</title>
+    <style type="text/css">
+        * {
+            background-color: #daf8f3;
+        }
+
+        #header {
+            margin: auto width: 500px;
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: url("arbustosyflores.jpg");
+        }
+
+        ul, ol {
+            list-style: none;
+        }
+
+        .nav > li {
+            float: left;
+        }
+
+        .nav li a {
+            background-color: #000000;
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 12px;
+            display: block;
+        }
+
+            .nav li a:hover {
+                background-color: #ff0000;
+            }
+
+        .nav li ul {
+            display: none;
+            position: absolute;
+            min-width: 140px;
+        }
+
+        .nav li:hover > ul {
+            display: block;
+        }
+
+        .nav li ul li {
+            position: relative;
+        }
+
+            .nav li ul li ul {
+                right: -140px;
+                top: 0px;
+            }
+    </style>
+    
+    <body>
+        <div id="header">
+            <ul class="nav">
+                <li><a href="/Home/Index">Inicio</a></li>
+
+                <li>
+                    <a href=""> Nuestros Servicios</a>
+                    <ul>
+                        <li><a href="/Planta/Planta">PLANTAS</a></li>
+                        <li><a href="/Abono/Abono">ABONOS</a></li>
+                        <li><a href="/Tierra/Tierra">TIERRAS</a></li>
+                        <li>
+                            <a href="/Adorno/Adorno">ADORNOS</a>
+                                                          
+                             
+                           
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">Clientes</a>
+                    <ul>
+
+
+                        <li><a href="/Cliente/Email">Email</a></li>
+
+                        <li><a href="/Planta/crear">Crear Su Cuenta</a></li>
+
+
+                    </ul>
+                </li>
+            
+                <li>
+                    <a href="">Pedido</a>
+                    <ul>
+
+
+                        <li><a href="/Contrato/Pedido">Pedido</a></li>
+
+                        <li><a href="/Contrato/Contrato">Contrato</a></li>
+
+
+                    </ul>
+                </li>
+
+        </div>
+    </body>
+</html>
+
+
+<div class="container body-content">
+    @RenderBody()
+    <hr />
+    <footer>
+        <p>&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
+    </footer>
+</div>
+
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+    <body></body>
+</html>

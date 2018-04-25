@@ -1,0 +1,166 @@
+﻿
+@{
+    ViewBag.Title = "Contrato";
+}
+
+<h2>Contrato</h2>
+
+<div class="container">
+    <div class="col-lg-12 col-md-8 col-sm-6 col-xs-3">
+        <div class="col-lg-12" style="margin-top:15px;text-align:center;">
+            <p class="">
+                <strong class="">ANEXO "1"</strong>
+            </p>
+            <p class="">
+                <strong class="">FORMATO DE SOLICITUD DE CONTRATO</strong>
+            </p>
+        </div>
+        <div class="col-lg-12" style="margin-top:15px">
+
+
+            <label for="fechaSolicitud">Fecha de Solicitud del Contrato</label>
+            <div class="input-group date" data-provide="datepicker">
+                <input type="text" class="form-control datepicker"
+                       id="fechaSolicitud"
+                       name="fechaSolicitud"
+                       readonly
+                       required maxlength="10"
+                       placeholder="Introduce la fecha de solicitud del contrato">
+                <div class="input-group-addon">
+                    <span class="glyphicon glyphicon-th"></span>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-12" style="margin-top:15px;text-align:center;">
+            <p class="">
+                <strong class="">DATOS DEL CONTRATO</strong>
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label>FECHA DEL CONTRATO</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>TIPO DE CONTRATO</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>PROVEEDOR</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>EMPRESA</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>AUTORIZACIÓN CLIENTE</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>REQUIERE AUTORIZACIÓN DEL GERENTE</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>FORMA DE PAGO</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>ANEXOS</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>GARANTÍAS</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>DOCUMENTOS ENTREGADOS</label>
+            </div>
+            <div class="col-md-4">
+
+                <div class="list-group" id="list2">
+                    <a href="#" class="list-group-item">Firma Cliente<input type="checkbox" class="pull-right"></a>
+                    <a href="#" class="list-group-item">Copia Documento Identidad<input type="checkbox" class="pull-right"></a>
+                    <a href="#" class="list-group-item">Registro Único Tributario-RUT<input type="checkbox" class="pull-right"></a>
+                    <a href="#" class="list-group-item">Certificación Bancaria<input type="checkbox" class="pull-right"></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+
+                <div class="list-group" id="list2">
+                    <a href="#" class="list-group-item">Dirección de la Propiedad<input type="checkbox" class="pull-right"></a>
+                    <a href="#" class="list-group-item">Ratings <input type="checkbox" class="pull-right"></a>
+                    <a href="#" class="list-group-item">Otro <input type="checkbox" class="pull-right"></a>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>NÚMERO DE CONTRATO ASIGNADO POR EL ÁREA</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-md-3">
+                <label>NÚMERO DE CONTRATO ASIGNADO POR JURÍDICO</label>
+            </div>
+            <div class="col-md-9">
+                <input class="form-control">
+            </div>
+        </div>
+        <br>
+        <p><button class="btn btn-success btn-md center-block">Guardar</button></p>
+        <p><button class="btn btn-success btn-md center-block">Imprimir</button></p>
+    </div>
+</div>
